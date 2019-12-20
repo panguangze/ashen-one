@@ -9,17 +9,17 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.byoryn</groupId>
-    <artifactId>rpp-parent</artifactId>
+    <groupId>com.ashenone</groupId>
+    <artifactId>ashen-one-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <description>Backend management system</description>
 
     <modules>
-        <module>rpp-common</module>
-        <module>rpp-db</module>
-        <module>rpp-i18n</module>
-        <module>rpp-admin</module>
+        <module>ashen-one-common</module>
+        <module>ashen-one-db</module>
+        <module>ashen-one-i18n</module>
+        <module>ashen-one-admin</module>
     </modules>
 
     <properties>
